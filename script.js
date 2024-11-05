@@ -9,7 +9,7 @@ function fooBar() {
 
 fooBar();
 
-if (new Date().getMonth() === 20) {
+if (new Date().getMonth() === 40) {
 	localStorage.removeItem("user");
 }
 
