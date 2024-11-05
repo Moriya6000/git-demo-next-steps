@@ -6,7 +6,7 @@ function fooBar() {
 		counter += 2;
 	}
 }
-
+console.log("Moriya did this console.log");
 fooBar();
 
 if (new Date().getMonth() === 20) {
